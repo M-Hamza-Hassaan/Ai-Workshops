@@ -25,9 +25,9 @@ def bfs(graph, start):
 ```
 
 
-🌲 2. Depth-First Search (DFS)
-Type: Uninformed Search
-Best for: Exploring all paths, can go deep quickly
+### 🌲 2. Depth-First Search (DFS)
+**Type**: Uninformed Search
+**Best** for: Exploring all paths, can go deep quickly
 
 ```python
 def dfs(graph, node, visited=None):
@@ -42,9 +42,9 @@ def dfs(graph, node, visited=None):
 ```
 
 
-🎯 3. Greedy Best First Search (GBFS)
-Type: Informed Search
-Best for: Fast but not always optimal
+### 🎯 3. Greedy Best First Search (GBFS)
+**Type**: Informed Search
+**Best** for: Fast but not always optimal
 
 ```python
 import heapq
@@ -67,9 +67,9 @@ def greedy_bfs(graph, start, goal, heuristic):
 ```
 
 
-⭐ 4. A* Search Algorithm
-Type: Informed Search
-Best for: Optimal pathfinding in weighted graphs
+### ⭐ 4. A* Search Algorithm
+**Type**: Informed Search
+**Best** for: Optimal pathfinding in weighted graphs
 
 ```python
 import heapq
@@ -94,9 +94,9 @@ def a_star(graph, start, goal, heuristic):
 ```
 
 
-🎮 5. Minimax Algorithm
-Type: Adversarial Search
-Best for: Two-player games (Tic Tac Toe, Chess)
+### 🎮 5. Minimax Algorithm
+**Type**: Adversarial Search
+**Best** for: Two-player games (Tic Tac Toe, Chess)
 
 ```python
 def minimax(depth, node_index, is_max, values, target_depth):
@@ -117,9 +117,9 @@ def minimax(depth, node_index, is_max, values, target_depth):
 ```
 
 
-⚡ 6. Alpha-Beta Pruning
-Type: Adversarial Search (Optimized Minimax)
-Best for: Reducing unnecessary calculations in games
+### ⚡ 6. Alpha-Beta Pruning
+**Type**: Adversarial Search (Optimized Minimax)
+**Best** for: Reducing unnecessary calculations in games
 
 ```python
 def alphabeta(depth, node_index, is_max, values, alpha, beta, target_depth):
@@ -150,8 +150,11 @@ def alphabeta(depth, node_index, is_max, values, alpha, beta, target_depth):
 
 📌 Use Cases
 Algorithm	Use Case
+
 BFS / DFS	Web crawling, puzzle solvers
+
 A* / Greedy BFS	Maps, GPS routing, robot pathfinding
+
 Minimax / Alpha-Beta	Chess, Tic Tac Toe, Game AI
 
 
