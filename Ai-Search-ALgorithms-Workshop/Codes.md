@@ -152,14 +152,13 @@ def alphabeta(depth, node_index, is_max, values, alpha, beta, target_depth):
 ```
 
 
-📌 Use Cases
-Algorithm	Use Case
+## 📌 Use Cases
 
-BFS / DFS	Web crawling, puzzle solvers
-
-A* / Greedy BFS	Maps, GPS routing, robot pathfinding
-
-Minimax / Alpha-Beta	Chess, Tic Tac Toe, Game AI
+| Algorithm             | Use Case                              |
+|-----------------------|----------------------------------------|
+| BFS / DFS             | Web crawling, puzzle solvers           |
+| A* / Greedy BFS       | Maps, GPS routing, robot pathfinding   |
+| Minimax / Alpha-Beta  | Chess, Tic Tac Toe, Game AI            |
 
 
 🙋‍♂️ Instructor: M. Hamza Hassaan
