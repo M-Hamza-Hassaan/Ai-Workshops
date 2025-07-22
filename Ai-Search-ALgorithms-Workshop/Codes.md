@@ -5,7 +5,8 @@ Here **Uninformed**, **Informed**, and **Adversarial** search algorithms, explai
 ---
 
 ### 🔍 1. Breadth-First Search (BFS)
-**Type**: Uninformed Search  
+**Type**: Uninformed Search
+
 **Best for**: Finding the shortest path in unweighted graphs
 
 ```python
@@ -27,7 +28,8 @@ def bfs(graph, start):
 
 ### 🌲 2. Depth-First Search (DFS)
 **Type**: Uninformed Search
-**Best** for: Exploring all paths, can go deep quickly
+
+**Best for**: Exploring all paths, can go deep quickly
 
 ```python
 def dfs(graph, node, visited=None):
@@ -44,7 +46,8 @@ def dfs(graph, node, visited=None):
 
 ### 🎯 3. Greedy Best First Search (GBFS)
 **Type**: Informed Search
-**Best** for: Fast but not always optimal
+
+**Best for**: Fast but not always optimal
 
 ```python
 import heapq
@@ -69,7 +72,8 @@ def greedy_bfs(graph, start, goal, heuristic):
 
 ### ⭐ 4. A* Search Algorithm
 **Type**: Informed Search
-**Best** for: Optimal pathfinding in weighted graphs
+
+**Best for**: Optimal pathfinding in weighted graphs
 
 ```python
 import heapq
@@ -96,7 +100,7 @@ def a_star(graph, start, goal, heuristic):
 
 ### 🎮 5. Minimax Algorithm
 **Type**: Adversarial Search
-**Best** for: Two-player games (Tic Tac Toe, Chess)
+**Best for**: Two-player games (Tic Tac Toe, Chess)
 
 ```python
 def minimax(depth, node_index, is_max, values, target_depth):
@@ -119,7 +123,7 @@ def minimax(depth, node_index, is_max, values, target_depth):
 
 ### ⚡ 6. Alpha-Beta Pruning
 **Type**: Adversarial Search (Optimized Minimax)
-**Best** for: Reducing unnecessary calculations in games
+**Best for**: Reducing unnecessary calculations in games
 
 ```python
 def alphabeta(depth, node_index, is_max, values, alpha, beta, target_depth):
