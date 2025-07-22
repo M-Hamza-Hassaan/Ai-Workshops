@@ -4,6 +4,15 @@
 
 Welcome to the **AI Search Algorithms Workshop**! This session covers fundamental search techniques used in Artificial Intelligence, including uninformed and informed and adversarial search strategies.  
 
+### 📂 Resources  
+Workshop Slides (PDF): [Download Here](https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/AiWorkshop.pdf)  
+Lecture Recording: [Watch Here](https://fb.watch/xuVqcuRSp8/)  
+Linkedin:[View Post Here](https://www.linkedin.com/posts/muhammad-hamza-hassaan_icodeguru-scholarshipsuccess-stanforddream-activity-7291087930301771776-o2U3?utm_source=share&utm_medium=member_desktop)
+
+---
+
+<img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Poster.jpg" alt="Header Image" width="400">
+
 ---
 
 ## 📌 Topics Covered  
@@ -22,13 +31,6 @@ Welcome to the **AI Search Algorithms Workshop**! This session covers fundamenta
 
 ---
 
-### 📂 Resources  
-Workshop Slides (PDF): [Download Here](https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/AiWorkshop.pdf)  
-Lecture Recording: [Watch Here](https://fb.watch/xuVqcuRSp8/)  
-Linkedin:[View Post Here](https://www.linkedin.com/posts/muhammad-hamza-hassaan_icodeguru-scholarshipsuccess-stanforddream-activity-7291087930301771776-o2U3?utm_source=share&utm_medium=member_desktop)
-
----
-
 ### 💡 Key Takeaways  
 ✅ Understanding different searching techniques in AI.  
 ✅ Learned about heuristics and how heuristics improve search efficiency.  
@@ -41,3 +43,9 @@ Linkedin:[View Post Here](https://www.linkedin.com/posts/muhammad-hamza-hassaan_
 🔹 Clone this repository:  
 ```sh
 git clone https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop.git
+```
+
+---
+<img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Image-2.JPG" alt="Header Image" height="326">
+
+<img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Image-1.JPG" alt="Header Image" height="350">
