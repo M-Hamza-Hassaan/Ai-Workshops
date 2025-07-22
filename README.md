@@ -44,7 +44,7 @@ Each folder contains a complete session including:
 **M. Hamza Hassaan**  
 AI Educator | Internation Hackathon Mentor | Software and Machine Learning Developer  
 
-With a passion for simplifying AI and empowering learners, Hamza has delivered **dozens of impactful workshops**, **mentored hundreds of students**, and built real-world projects using AI & GenAI tools. His sessions are known for being **explainatory, beginner-friendly, and hands-on**.
+With a passion for simplifying AI and empowering learners, Hamza has delivered **Some impactful workshops**, **mentored hundreds of students**, and built real-world projects using AI & GenAI tools. His sessions are known for being **explainatory, beginner-friendly, and hands-on**.
 
 > 🧭 *“I believe learning AI should be simple, inspiring, and accessible to everyone.”*
 
