@@ -21,8 +21,8 @@ def bfs(graph, start):
             print(node, end=" ")
             visited.add(node)
             queue.extend(neighbor for neighbor in graph[node] if neighbor not in visited)
+# First, explores all nodes at the current depth before moving to the next.
 ```
-First, explores all nodes at the current depth before moving to the next.
 
 
 🌲 2. Depth-First Search (DFS)
@@ -38,8 +38,8 @@ def dfs(graph, node, visited=None):
         visited.add(node)
         for neighbor in graph[node]:
             dfs(graph, neighbor, visited)
+# Uses recursion (or a stack) to dive deep into the graph/tree.
 ```
-Uses recursion (or a stack) to dive deep into the graph/tree.
 
 
 🎯 3. Greedy Best First Search (GBFS)
@@ -63,8 +63,8 @@ def greedy_bfs(graph, start, goal, heuristic):
                 if neighbor not in visited:
                     heapq.heappush(open_list, (heuristic[neighbor], neighbor))
     return False
+# Selects the next node based on the lowest heuristic value (greedy choice).
 ```
-Selects the next node based on the lowest heuristic value (greedy choice).
 
 
 ⭐ 4. A* Search Algorithm
@@ -90,8 +90,8 @@ def a_star(graph, start, goal, heuristic):
                     priority = new_cost + heuristic[neighbor]
                     heapq.heappush(open_list, (priority, new_cost, neighbor))
     return False
+# Combines actual cost (g(n)) + heuristic (h(n)) for balanced, optimal search.
 ```
-Combines actual cost (g(n)) + heuristic (h(n)) for balanced, optimal search.
 
 
 🎮 5. Minimax Algorithm
@@ -113,8 +113,8 @@ def minimax(depth, node_index, is_max, values, target_depth):
             minimax(depth + 1, node_index * 2, True, values, target_depth),
             minimax(depth + 1, node_index * 2 + 1, True, values, target_depth)
         )
+# Simulates both players trying to maximize/minimize the outcome.
 ```
-Simulates both players trying to maximize/minimize the outcome.
 
 
 ⚡ 6. Alpha-Beta Pruning
@@ -144,8 +144,8 @@ def alphabeta(depth, node_index, is_max, values, alpha, beta, target_depth):
             if beta <= alpha:
                 break
         return min_eval
+#Improves efficiency by cutting branches that don’t affect the result.
 ```
-Improves efficiency by cutting branches that don’t affect the result.
 
 
 📌 Use Cases
