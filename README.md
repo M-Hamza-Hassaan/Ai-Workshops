@@ -53,7 +53,7 @@ With a passion for simplifying AI and empowering learners, Hamza has delivered *
 ## 💬 Want to Connect?
 
 📧 Email: damn.code.hamza@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/mhhamzahassaan](https://linkedin.com/in/mhhamzahassaan)
+🌐 LinkedIn: [linkedin.com/in/mhhamzahassaan](https://www.linkedin.com/in/muhammad-hamza-hassaan/)
 
 ---
 
