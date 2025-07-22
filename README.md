@@ -15,7 +15,7 @@ Each folder contains a complete session including:
 
 ## 📚 Available Workshops
 
-### 🧠 [AI Search Algorithms Workshop](./Ai-Search-Algorithms-Workshop)
+### 🧠 [AI Search Algorithms Workshop](https://github.com/M-Hamza-Hassaan/Ai-Workshops/tree/main/Ai-Search-ALgorithms-Workshop)
 > Dive deep into **classic search strategies** like BFS, DFS, A*, and understand how intelligent agents make decisions efficiently.
 
 - Perfect for: Beginners to AI / CS students
@@ -23,7 +23,7 @@ Each folder contains a complete session including:
 
 ---
 
-### 🤖 [Gen AI Workshops](./Gen-Ai-Workshops)
+### 🤖 [Gen AI Workshops](https://github.com/M-Hamza-Hassaan/Ai-Workshops/tree/main/Gen-Ai-Workshops)
 > Explore the future with **Generative AI**—from LLMs to creative AI tools like ChatGPT, Midjourney, and AI-powered apps using Streamlit.
 
 - Perfect for: Anyone curious about building with AI
@@ -31,7 +31,7 @@ Each folder contains a complete session including:
 
 ---
 
-### 📊 [Machine Learning Introduction Workshop](./Machine-Learning-Introduction-Workshop)
+### 📊 [Machine Learning Introduction Workshop](https://github.com/M-Hamza-Hassaan/Ai-Workshops/tree/main/Introduction-To-Machine-learning-Workshop)
 > A crystal-clear introduction to **machine learning fundamentals**: supervised/unsupervised learning, model training, and applications.
 
 - Perfect for: Newcomers to ML / Bootcamp learners
