@@ -10,7 +10,7 @@ Welcome to the **Intro To Machine Learning Workshop**! This session introduces t
 
 ---
 
-<img src="https://github.com/M-Hamza-Hassaan/Intro-To-ML-Workshop/blob/main/Poster.jpg" alt="Workshop Poster" width="400">
+<img src="https://github.com/M-Hamza-Hassaan/Ai-Workshops/blob/main/Introduction-To-Machine-learning-Workshop/Poster.jpg" alt="Workshop Poster" width="400">
 
 ---
 
@@ -52,6 +52,6 @@ git clone https://github.com/M-Hamza-Hassaan/Intro-To-ML-Workshop.git
 ```
 
 
-<div align="center"> <img src="https://github.com/M-Hamza-Hassaan/Intro-To-ML-Workshop/blob/main/3.JPG" width="70%" alt="Workshop Image 1""> 
-  <img src="https://github.com/M-Hamza-Hassaan/Intro-To-ML-Workshop/blob/main/4.JPG" width="70%" alt="Workshop Image 2""> 
-  <img src="https://github.com/M-Hamza-Hassaan/Intro-To-ML-Workshop/blob/main/image.png" width="50%" alt="Workshop Image 3"> </div>
+<div align="center"> <img src="https://github.com/M-Hamza-Hassaan/Ai-Workshops/blob/main/Introduction-To-Machine-learning-Workshop/3.JPG" width="70%" alt="Workshop Image 1""> 
+  <img src="https://github.com/M-Hamza-Hassaan/Ai-Workshops/blob/main/Introduction-To-Machine-learning-Workshop/4.JPG" width="70%" alt="Workshop Image 2""> 
+  <img src="https://github.com/M-Hamza-Hassaan/Ai-Workshops/blob/main/Introduction-To-Machine-learning-Workshop/image.png" width="50%" alt="Workshop Image 3"> </div>
