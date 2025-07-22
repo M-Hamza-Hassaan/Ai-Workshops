@@ -40,10 +40,7 @@ Linkedin:[View Post Here](https://www.linkedin.com/posts/muhammad-hamza-hassaan_
 
 ## 🚀 Get Started  
 
-🔹 Clone this repository:  
-```sh
-git clone https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop.git
-```
+
 
 ---
 <img src="https://github.com/M-Hamza-Hassaan/Ai-Search-Workshop/blob/main/Image-2.JPG" alt="Header Image" height="326">
