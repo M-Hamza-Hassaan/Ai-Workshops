@@ -1,5 +1,3 @@
-# 🚀 AI Workshop Vault by M. Hamza Hassaan
-
 Whether you're a student, developer, or tech enthusiast, these workshops will help you gain **clarity, confidence, and capability** in Artificial Intelligence, Machine Learning, and Generative AI.
 
 ---
