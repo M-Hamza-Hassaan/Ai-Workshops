@@ -30,7 +30,8 @@ My main aim to equip engineers with **practical understanding and hands-on skill
 - Introduction to Freelancing and its Importance
 - Overview of Various Freelancing Platforms
 - How Gen Ai Applications can add values to clients  
-- Here are Slides: [Session 2 Slides]()
+- Here are Slides: [Session Slides](https://github.com/M-Hamza-Hassaan/Ai-Workshops/blob/main/Gen-Ai-Workshops/Module%205%20_%20PART-2%20_%20How%20to%20Sell%20Generative%20AI%20Skill%20_%20PEC%20GenAI%20Course.pdf)
+  
 📽️ Watch here: [YouTube - Session 2](https://www.youtube.com/live/L8gdxAUk8xc)
 
 ---
