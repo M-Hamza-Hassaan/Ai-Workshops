@@ -30,6 +30,7 @@ My main aim to equip engineers with **practical understanding and hands-on skill
 - Introduction to Freelancing and its Importance
 - Overview of Various Freelancing Platforms
 - How Gen Ai Applications can add values to clients  
+- Here are Slides: [Session 2 Slides]()
 📽️ Watch here: [YouTube - Session 2](https://www.youtube.com/live/L8gdxAUk8xc)
 
 ---
